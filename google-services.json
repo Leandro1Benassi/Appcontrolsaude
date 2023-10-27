@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "168704096523",
+    "project_id": "aplicativo-financeiro-79e1d",
+    "storage_bucket": "aplicativo-financeiro-79e1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168704096523:android:5c36c9cd572c84c0178a0e",
+        "android_client_info": {
+          "package_name": "com.hugofreitas.appFinanceiro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168704096523-aro5onma3u5r2oolu321131otqlnk0av.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz-XHNdhH5a009vxM3u1JbJSiloD0grgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168704096523-aro5onma3u5r2oolu321131otqlnk0av.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
